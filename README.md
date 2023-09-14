@@ -19,3 +19,6 @@ These are the schematics for our pin output to VGA using a normal Arduino Uno.
 
 We can use the pin map to cross reference which VGA pin goes where on the breadboard. For example on the VGA schematics we can see that the RGB pins go to 
 digital pin 7 on the arduino uno, but for us they will lead to pin number 13 on the ATmega328p or 2nd from the bottom, to the left.
+
+# What you should see if you've followed this correctly
+![breadboarduno](https://github.com/sdcat404/ATmega328p-VGA/assets/118654680/558be14d-01ce-42b1-9b1c-a6ffb6ddadf7)
